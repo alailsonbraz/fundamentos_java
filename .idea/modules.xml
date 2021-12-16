@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Fundamentos JAVA.iml" filepath="$PROJECT_DIR$/.idea/Fundamentos JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex2_pratico/ex2_pratico.iml" filepath="$PROJECT_DIR$/ex2_pratico/ex2_pratico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex4_ex3_pratico/ex4_ex3_pratico.iml" filepath="$PROJECT_DIR$/ex4_ex3_pratico/ex4_ex3_pratico.iml" />
+    </modules>
+  </component>
+</project>
