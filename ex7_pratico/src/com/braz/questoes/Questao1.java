@@ -20,5 +20,7 @@ public class Questao1 {
             double r=input.nextDouble();
             System.out.println("A área do círculo é: " + calculaAreaCirculo(r));
         }
+
+
 }
 

@@ -38,15 +38,15 @@ public class Main {
 
                 nomeMes=input.next();
 
-                nomeMes=nomeMes.toLowerCase();
+
                 
-                if(nomeMes.equals("janeiro") || nomeMes.equals("fevereiro") || nomeMes.equals("março")) {
+                if(nomeMes.equalsIgnoreCase("janeiro") || nomeMes.equalsIgnoreCase("fevereiro") || nomeMes.equalsIgnoreCase("março")) {
                     System.out.println("Inverno");
-                }else if(nomeMes.equals("abril") || nomeMes.equals("maio") || nomeMes.equals("junho")) {
+                }else if(nomeMes.equalsIgnoreCase("abril") || nomeMes.equalsIgnoreCase("maio") || nomeMes.equalsIgnoreCase("junho")) {
                     System.out.println("Primavera");
-                }else if(nomeMes.equals("julho") || nomeMes.equals("agosto") || nomeMes.equals("setembro")) {
+                }else if(nomeMes.equalsIgnoreCase("julho") || nomeMes.equalsIgnoreCase("agosto") || nomeMes.equalsIgnoreCase("setembro")) {
                     System.out.println("Verão");
-                }else if(nomeMes.equals("outubro") || nomeMes.equals("novembro") || nomeMes.equals("dezembro")) {
+                }else if(nomeMes.equalsIgnoreCase("outubro") || nomeMes.equalsIgnoreCase("novembro") || nomeMes.equalsIgnoreCase("dezembro")) {
                     System.out.println("Outono");
                 }else {
                     System.out.println("Mês inválido");
